@@ -1,3 +1,3 @@
-# Portfolio
+# Portfolio!
 
-A simple project based on the basics of HTML, CSS, and php.
+A simple portfolio based on the basic implementation of HTML, CSS, and PHP. 
